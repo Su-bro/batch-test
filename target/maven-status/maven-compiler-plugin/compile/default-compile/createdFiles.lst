@@ -1,9 +1,0 @@
-com/example/test/vo/ResVo.class
-com/example/test/controller/TestController.class
-com/example/test/service/TestService.class
-com/example/test/TestApplication.class
-com/example/test/TestCommandLineRunner.class
-com/example/test/vo/TestVO.class
-com/example/test/config/DataAccessConfig.class
-com/example/test/config/DataSourceConfig.class
-com/example/test/dao/TestDao.class
